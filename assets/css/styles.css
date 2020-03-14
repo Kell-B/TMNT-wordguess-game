@@ -1,0 +1,8 @@
+.jumbotron {
+	background-image: url(../../assets/images/tmnt-logo.png);
+	background-color: black;
+	background-size: cover;
+	background-position: center center;
+	margin: 0;
+	padding: 150px;
+}
