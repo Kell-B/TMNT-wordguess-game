@@ -10,10 +10,12 @@
 
 .card-transparent {
 	color: ivory;
+	margin: 20px;
 }
 
 body {
 	background-color: black;
+	padding-bottom: 70px;
 }
 
 IMG.displayed {
@@ -33,4 +35,18 @@ h1 {
 	color: ivory;
 	margin-top: 85px;
 	font-family: 'Permanent Marker', cursive;
+}
+
+h6 {
+	color: ivory;
+	font-family: 'Permanent Marker', cursive;
+	margin-top: 50px;
+	margin-left: auto;
+}
+
+.navbar {
+	background-color: rgb(97, 16, 138);
+	position: fixed;
+	height: 100px;
+	border-top: solid 10px rgb(86, 143, 50);
 }
